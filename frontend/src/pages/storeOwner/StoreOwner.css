@@ -1,0 +1,9 @@
+/* src/pages/storeOwner/StoreOwner.css */
+.rating-badge {
+  background: #fef3c7;
+  color: #92400e;
+  padding: 4px 12px;
+  border-radius: 12px;
+  font-weight: 500;
+  font-size: 14px;
+}

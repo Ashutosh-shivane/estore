@@ -1,0 +1,31 @@
+/* src/components/Navbar.css */
+.navbar {
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  padding: 16px 0;
+  margin-bottom: 32px;
+}
+
+.navbar-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-brand {
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+.navbar-menu {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.navbar-user {
+  color: var(--text-secondary);
+  font-size: 14px;
+}
